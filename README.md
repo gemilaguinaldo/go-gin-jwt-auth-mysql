@@ -9,3 +9,6 @@ https://medium.com/@22vinikaanthwal/register-login-api-with-jwt-authentication-i
 2. run: go run main.go
 3. if there are errors, just follow the error message. it will tell you to install packages one by one
 4. once it runs, it will auto migrate the table so you can proceed to testing
+
+# git source
+https://github.com/VinikaAnthwal/go-jwt
